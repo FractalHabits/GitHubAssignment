@@ -1,2 +1,34 @@
 # GitHubAssignment
 Assignment for AIM Class
+
+- Git 
+    - version control for devs
+    - saving different versions of codebases
+    - allows reverting to previous versions
+    - Stores versions as snapshots
+    - Push and pull changes from different installations on different computers
+    - Distributed version control system
+    - Collaborations
+    - Does not update in real-time so coordination is important
+- GitHub
+    - Hold repositories of code in the cloud
+    - Project organization and management
+        - assign tasks to people or groups, set permissions, set roles for collaborators, and comment moderation.
+    - Public Availability
+        - OSS Social coding
+    - 3 primary actions  when interacting with others' code
+        - Fork
+            - copy a code repository to modify
+        - Pull
+            - Share local modifications with the repository owner with a Pull Request
+        - Merge
+            - Owners can add new changes to their project with a merge and credit contributors who suggested them
+    - repository
+        - file location where the project is stored
+    - Commit
+        - Command used to save new changes to your project in the repository
+    - Stage
+        - Preparation step before commit
+        - prep before adding
+    - Branch
+        - Part of the project you are active development
